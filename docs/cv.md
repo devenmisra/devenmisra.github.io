@@ -4,4 +4,4 @@ title: "Curriculum Vitae"
 permalink: /cv.html
 ---
 
-![CV](/curriculum_vitae.pdf)
+![cv](/curriculum_vitae.pdf)
