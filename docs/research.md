@@ -6,4 +6,4 @@ permalink: /research.html
 
 - [Machine Learning for Particle Physics]()
 - [Mathematical Physics]()
-- [Robotics](https://chirikjianlab.github.io/chairimagination/)
+- [Robot Imagination](https://chirikjianlab.github.io/chairimagination/)
