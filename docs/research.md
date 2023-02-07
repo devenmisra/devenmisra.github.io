@@ -4,6 +4,6 @@ title: "Research"
 permalink: /research.html
 ---
 
-- [Machine Learning for Particle Physics]()
+- [Geometric Deep Learning]()
 - [Mathematical Physics]()
 - [Robot Imagination](https://chirikjianlab.github.io/chairimagination/)
