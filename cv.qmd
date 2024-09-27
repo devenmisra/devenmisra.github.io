@@ -1,0 +1,66 @@
+---
+title: Curriculum Vitae
+subtitle: <a href="/resources/CV.pdf">PDF <i class="bi-file-earmark-pdf h5"></i></a>
+---
+## Education
+
+__The University of Tokyo__ | Bunkyo&#772;-ku, Tokyo
+
+<ul style="list-style-type:square;">
+  <li>
+  M.S. in Physics | October 2024 -- Present
+  </li>
+</ul>
+
+__Reed College__ | Portland, Oregon
+
+<ul style="list-style-type:square;">
+  <li>
+  B.A. in Physics | August 2018 -- May 2022
+  </li>
+</ul>
+
+## Experience
+
+__Reed College__ | Portland, Oregon
+
+<ul style="list-style-type:square;">
+  <li>
+  Research Assistant | October 2023 -- October 2024
+  </li>
+</ul>
+
+__Pacific Northwest National Laboratory__ | Richland, Washington
+
+<ul style="list-style-type:square;">
+  <li>
+  SULI Intern | September 2022 -- April 2023
+  </li>
+</ul>
+
+__Reed College__ | Portland, Oregon
+
+<ul style="list-style-type:square;">
+  <li>
+  Research Assistant | May 2022 -- August 2022
+  </li>
+</ul>
+
+__Johns Hopkins University__ | Baltimore, Maryland
+
+<ul style="list-style-type:square;">
+  <li>
+  Visiting Undergraduate Researcher | May 2019 -- September 2019
+  </li>
+</ul>
+
+## Awards
+
+__The University of Tokyo__ | Bunkyo&#772;-ku, Tokyo
+
+<ul style="list-style-type:square;">
+  <li>
+  <a href="https://www.s.u-tokyo.ac.jp/GSGC/" style="text-decoration: none"> Global Science Graduate Course </a> Scholarship | 2024 -- 2029
+  </li>
+</ul>
+

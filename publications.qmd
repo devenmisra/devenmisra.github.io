@@ -1,0 +1,13 @@
+---
+title: "Publications" 
+subtitle: <a href="https://inspirehep.net/">INSPIRE-HEP {{< iconify academicons inspire >}}</a>
+---
+
+## Refereed Conference Publications
+1. H. Wu, __D. Misra__ and G. S. Chirikjian, "<a href="https://ieeexplore.ieee.org/document/9197384" style="text-decoration: none">Is That a Chair? Imagining Affordances Using Simulations of an Articulated Human Body</a>," _2020 IEEE International Conference on Robotics and Automation (ICRA)_, Paris, France, 2020, pp. 7240-7246, doi: 10.1109/ICRA40945.2020.9197384.
+
+## Conference Posters
+1. __D. Misra__, O. Lee, H. Saberhagen, D. Schroeter and N. Charles, "Geometrically Disordered Network Models for the Integer Quantum Hall Transition via Loop Diagram Insertions," _2024 APS March Meeting_, Minneapolis, Minnesota, USA, 2024.
+
+## Other Publications
+1. __D. Misra__, "Multipole Moments of the Weyl-Lewis-Papapetrou Metric for an Axisymmetric Ring," Undergraduate Thesis, Dept. of Physics, Reed College, Portland, OR, 2022.

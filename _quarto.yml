@@ -1,0 +1,31 @@
+project:
+  type: website
+  output-dir: docs
+  
+website:
+  title: "Deven Misra"
+  favicon: resources/ut_logo_mini.png
+  navbar:
+    logo: resources/ut_logo_mini.svg
+    right:
+      - href: index.qmd
+        text: About
+      - href: research.qmd
+        text: Research
+      - href: publications.qmd
+        text: Publications
+      - href: cv.qmd
+        text: CV
+  page-footer: 
+    center: 
+      - text: <img src="/resources/ut_logo.png" height=20em />
+        href: https://www.u-tokyo.ac.jp/en/
+
+format:
+  html:
+    theme: 
+      light: cosmo
+      dark: [cosmo, theme-dark.scss]
+    css: styles.css
+    toc: true
+    email-obfuscation: references
