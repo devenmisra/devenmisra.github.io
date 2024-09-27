@@ -24,8 +24,8 @@ website:
 format:
   html:
     theme: 
-      light: cosmo
-      dark: [cosmo, theme-dark.scss]
+      light: solar
+      #dark: [cosmo, theme-dark.scss]
     css: styles.css
     toc: true
     email-obfuscation: references
