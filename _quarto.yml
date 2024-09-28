@@ -16,6 +16,10 @@ website:
         text: Publications
       - href: cv.qmd
         text: CV
+  page-footer: 
+    center: 
+      - text: <img src="/resources/ut_logo.png" height=20em />
+        href: https://www.u-tokyo.ac.jp/en/
 
 format:
   html:
