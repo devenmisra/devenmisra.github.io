@@ -3,7 +3,7 @@ project:
   output-dir: docs
   
 website:
-  title: "Deven Misra"
+  title: ""
   favicon: resources/ut_logo_mini.png
   navbar:
     logo: resources/ut_logo_mini.svg
