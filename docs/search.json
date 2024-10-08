@@ -11,7 +11,7 @@
     "href": "research.html",
     "title": "Research",
     "section": "",
-    "text": "Under construction."
+    "text": "I am currently a member of the Belle II collaboration affiliated with the Kavli Institute for the Physics and Mathematics of the Universe in association with the Institute of Particle and Nuclear Studies. My research focuses on developing fast machine learning algorithms on FPGAs for the Belle II L1 trigger.\n\n\n\n\nBefore joining Belle II, I worked on the development and implementation of advanced machine learning algorithms for energy and angle reconstruction in the Zero-Degree Calorimeter for the future Electron-Ion Collider. Data from simulations was used to perform the first angle reconstruction for hadronic showers in the far-forward calorimetry using a graph neural network. I also worked with the ePIC collaboration on refinement and validation of a new DD4hep-based framework for simulation studies."
   },
   {
     "objectID": "cv.html",
@@ -117,5 +117,145 @@
     "title": "Deven Misra",
     "section": "",
     "text": "From October 2024, I will be a graduate student (M1) in the Belle II group at the Kavli Institute for the Physics and Mathematics of the Universe. My advisor is Professor  Takeo Higuchi.\nSince October 2023, I have been a research assistant at Reed College supervised by Professor Noah Charles. Before that, I was a SULI intern in the Data Science and Machine Intelligence group at Pacific Northwest National Laboratory, where my mentor was Dr. Jan Strube. I earned my B.A. in Physics from Reed College in May 2022. My thesis advisor was Professor Joel Franklin.\nIn 2019, I was a visiting researcher at the Johns Hopkins University Robot and Protein Kinematics Laboratory supervised by Professor Gregory Chirikjian."
+  },
+  {
+    "objectID": "research.html#belle-ii",
+    "href": "research.html#belle-ii",
+    "title": "Research",
+    "section": "",
+    "text": "I am currently a member of the Belle II collaboration affiliated with the Kavli Institute for the Physics and Mathematics of the Universe in association with the Institute of Particle and Nuclear Studies. My research focuses on developing fast machine learning algorithms on FPGAs for the Belle II L1 trigger."
+  },
+  {
+    "objectID": "research.html#integer-quantum-hall-effect",
+    "href": "research.html#integer-quantum-hall-effect",
+    "title": "Research",
+    "section": "Integer Quantum Hall Effect",
+    "text": "Integer Quantum Hall Effect"
+  },
+  {
+    "objectID": "research.html#integer-quantum-hall-transitions",
+    "href": "research.html#integer-quantum-hall-transitions",
+    "title": "Research",
+    "section": "Integer Quantum Hall Transitions",
+    "text": "Integer Quantum Hall Transitions\nI am currently working on analytic and computational methods for introducing geometric disorder to the Chalker-Coddington network model.\n\nRelated Publications\n\nD. Misra, O. Lee, H. Saberhagen, D. Schroeter and N. Charles, “Geometrically Disordered Network Models for the Integer Quantum Hall Transition via Loop Diagram Insertions,” 2024 APS March Meeting, Minneapolis, Minnesota, USA, 2024."
+  },
+  {
+    "objectID": "research.html#belle-iihttpswww.belle2.org",
+    "href": "research.html#belle-iihttpswww.belle2.org",
+    "title": "Research",
+    "section": "",
+    "text": "I am a member of the Belle II collaboration affiliated with the Kavli Institute for the Physics and Mathematics of the Universe. My current research focuses on the development and implementation of fast machine learning algorithms on FPGA architectures to improve the performance of the Belle II L1 trigger."
+  },
+  {
+    "objectID": "research.html#integer-quantum-hall-transition",
+    "href": "research.html#integer-quantum-hall-transition",
+    "title": "Research",
+    "section": "Integer Quantum Hall Transition",
+    "text": "Integer Quantum Hall Transition\nI am currently working on analytic and computational methods for introducing geometric disorder to the Chalker-Coddington network model.\n\nRelated Publications\n\nD. Misra, O. Lee, H. Saberhagen, D. Schroeter and N. Charles, “Geometrically Disordered Network Models for the Integer Quantum Hall Transition via Loop Diagram Insertions,” 2024 APS March Meeting, Minneapolis, Minnesota, USA, 2024."
+  },
+  {
+    "objectID": "research.html#the-integer-quantum-hall-effect",
+    "href": "research.html#the-integer-quantum-hall-effect",
+    "title": "Research",
+    "section": "The Integer Quantum Hall Effect",
+    "text": "The Integer Quantum Hall Effect\nI am currently working on analytic and computational methods for introducing geometric disorder to the Chalker-Coddington network model.\n\nRelated Publications\n\nD. Misra, O. Lee, H. Saberhagen, D. Schroeter and N. Charles, “Geometrically Disordered Network Models for the Integer Quantum Hall Transition via Loop Diagram Insertions,” 2024 APS March Meeting, Minneapolis, Minnesota, USA, 2024."
+  },
+  {
+    "objectID": "research.html#integer-qhe",
+    "href": "research.html#integer-qhe",
+    "title": "Research",
+    "section": "Integer QHE",
+    "text": "Integer QHE\nI am currently working on analytic and computational methods for introducing geometric disorder to the Chalker-Coddington network model.\n\nRelated Publications\n\nD. Misra, O. Lee, H. Saberhagen, D. Schroeter and N. Charles, “Geometrically Disordered Network Models for the Integer Quantum Hall Transition via Loop Diagram Insertions,” 2024 APS March Meeting, Minneapolis, Minnesota, USA, 2024."
+  },
+  {
+    "objectID": "research.html#other-projects",
+    "href": "research.html#other-projects",
+    "title": "Research",
+    "section": "Other Projects",
+    "text": "Other Projects\nI am currently working on analytic and computational methods for introducing geometric disorder to the Chalker-Coddington network model.\n\nRelated Publications\n\nD. Misra, O. Lee, H. Saberhagen, D. Schroeter and N. Charles, “Geometrically Disordered Network Models for the Integer Quantum Hall Transition via Loop Diagram Insertions,” 2024 APS March Meeting, Minneapolis, Minnesota, USA, 2024."
+  },
+  {
+    "objectID": "research.html#other",
+    "href": "research.html#other",
+    "title": "Research",
+    "section": "Other",
+    "text": "Other\nI am currently working on analytic and computational methods for introducing geometric disorder to the Chalker-Coddington network model.\n\nRelated Publications\n\nD. Misra, O. Lee, H. Saberhagen, D. Schroeter and N. Charles, “Geometrically Disordered Network Models for the Integer Quantum Hall Transition via Loop Diagram Insertions,” 2024 APS March Meeting, Minneapolis, Minnesota, USA, 2024."
+  },
+  {
+    "objectID": "research.html#misc.",
+    "href": "research.html#misc.",
+    "title": "Research",
+    "section": "Misc.",
+    "text": "Misc.\nI am currently working on analytic and computational methods for introducing geometric disorder to the Chalker-Coddington network model.\n\nRelated Publications\n\nD. Misra, O. Lee, H. Saberhagen, D. Schroeter and N. Charles, “Geometrically Disordered Network Models for the Integer Quantum Hall Transition via Loop Diagram Insertions,” 2024 APS March Meeting, Minneapolis, Minnesota, USA, 2024."
+  },
+  {
+    "objectID": "research.html#disordered-network-models-for-the-integer-quantum-hall-transition",
+    "href": "research.html#disordered-network-models-for-the-integer-quantum-hall-transition",
+    "title": "Research",
+    "section": "Disordered Network Models for the Integer Quantum Hall Transition",
+    "text": "Disordered Network Models for the Integer Quantum Hall Transition\nI am currently working on analytic and computational methods for introducing geometric disorder to the Chalker-Coddington network model.\n\nRelated Publications\n\nD. Misra, O. Lee, H. Saberhagen, D. Schroeter and N. Charles, “Geometrically Disordered Network Models for the Integer Quantum Hall Transition via Loop Diagram Insertions,” 2024 APS March Meeting, Minneapolis, Minnesota, USA, 2024."
+  },
+  {
+    "objectID": "research.html#the-integer-quantum-hall-transition",
+    "href": "research.html#the-integer-quantum-hall-transition",
+    "title": "Research",
+    "section": "The Integer Quantum Hall Transition",
+    "text": "The Integer Quantum Hall Transition\nI am currently working on analytic and computational methods for introducing geometric disorder to the Chalker-Coddington network model.\n\nRelated Publications\n\nD. Misra, O. Lee, H. Saberhagen, D. Schroeter and N. Charles, “Geometrically Disordered Network Models for the Integer Quantum Hall Transition via Loop Diagram Insertions,” 2024 APS March Meeting, Minneapolis, Minnesota, USA, 2024."
+  },
+  {
+    "objectID": "research.html#quantum-hall-effect",
+    "href": "research.html#quantum-hall-effect",
+    "title": "Research",
+    "section": "Quantum Hall Effect",
+    "text": "Quantum Hall Effect\nI am currently working on analytic and computational methods for introducing geometric disorder to the Chalker-Coddington network model.\n\nRelated Publications\n\nD. Misra, O. Lee, H. Saberhagen, D. Schroeter and N. Charles, “Geometrically Disordered Network Models for the Integer Quantum Hall Transition via Loop Diagram Insertions,” 2024 APS March Meeting, Minneapolis, Minnesota, USA, 2024."
+  },
+  {
+    "objectID": "research.html#quantum-hall-transitions",
+    "href": "research.html#quantum-hall-transitions",
+    "title": "Research",
+    "section": "Quantum Hall Transitions",
+    "text": "Quantum Hall Transitions\nI am currently working on introducing geometric disorder to the Chalker-Coddington network model in order to accurately compute the critical exponent for the integer quantum hall transition.\n\nRelated Publications\n\nD. Misra, O. Lee, H. Saberhagen, D. Schroeter and N. Charles, “Geometrically Disordered Network Models for the Integer Quantum Hall Transition via Loop Diagram Insertions,” 2024 APS March Meeting, Minneapolis, Minnesota, USA, 2024."
+  },
+  {
+    "objectID": "research.html#phase-transitions-in-the-quantum-hall-effect",
+    "href": "research.html#phase-transitions-in-the-quantum-hall-effect",
+    "title": "Research",
+    "section": "Phase Transitions in the Quantum Hall Effect",
+    "text": "Phase Transitions in the Quantum Hall Effect\nI am currently working on introducing geometric disorder to the Chalker-Coddington network model in order to accurately compute the critical exponent for the integer quantum hall transition.\n\nRelated Publications\n\nD. Misra, O. Lee, H. Saberhagen, D. Schroeter and N. Charles, “Geometrically Disordered Network Models for the Integer Quantum Hall Transition via Loop Diagram Insertions,” 2024 APS March Meeting, Minneapolis, Minnesota, USA, 2024."
+  },
+  {
+    "objectID": "research.html#quantum-phase-transitions",
+    "href": "research.html#quantum-phase-transitions",
+    "title": "Research",
+    "section": "Quantum Phase Transitions",
+    "text": "Quantum Phase Transitions\nI am currently working on a novel method of introducing geometric disorder to the Chalker-Coddington network model in order to accurately compute the critical exponent for the integer quantum hall transition.\n\nRelated Publications\n\nD. Misra, O. Lee, H. Saberhagen, D. Schroeter and N. Charles, “Geometrically Disordered Network Models for the Integer Quantum Hall Transition via Loop Diagram Insertions,” 2024 APS March Meeting, Minneapolis, Minnesota, USA, 2024."
+  },
+  {
+    "objectID": "research.html#particle-physicsa",
+    "href": "research.html#particle-physicsa",
+    "title": "Research",
+    "section": "",
+    "text": "I am a member of the Belle II collaboration affiliated with the Kavli Institute for the Physics and Mathematics of the Universe (IPMU). My current research focuses on the development and implementation of fast machine learning algorithms on FPGA architectures to improve the performance of the Belle II L1 trigger."
+  },
+  {
+    "objectID": "research.html#condensed-matter-physics",
+    "href": "research.html#condensed-matter-physics",
+    "title": "Research",
+    "section": "Condensed Matter Physics",
+    "text": "Condensed Matter Physics\n\nQuantum Phase Transitions\nI am currently working on a novel method of introducing geometric disorder to the Chalker-Coddington network model in order to accurately compute the critical exponent for the integer quantum hall transition.\n\nRelated Publications\n\nD. Misra, O. Lee, H. Saberhagen, D. Schroeter and N. Charles, “Geometrically Disordered Network Models for the Integer Quantum Hall Transition via Loop Diagram Insertions,” 2024 APS March Meeting, Minneapolis, Minnesota, USA, 2024."
+  },
+  {
+    "objectID": "research.html#particle-physics",
+    "href": "research.html#particle-physics",
+    "title": "Research",
+    "section": "",
+    "text": "I am currently a member of the Belle II collaboration affiliated with the Kavli Institute for the Physics and Mathematics of the Universe in association with the Institute of Particle and Nuclear Studies. My research focuses on developing fast machine learning algorithms on FPGAs for the Belle II L1 trigger.\n\n\n\n\nBefore joining Belle II, I worked on the development and implementation of advanced machine learning algorithms for energy and angle reconstruction in the Zero-Degree Calorimeter for the future Electron-Ion Collider. Data from simulations was used to perform the first angle reconstruction for hadronic showers in the far-forward calorimetry using a graph neural network. I also worked with the ePIC collaboration on refinement and validation of a new DD4hep-based framework for simulation studies."
+  },
+  {
+    "objectID": "research.html#electron-ion-collider",
+    "href": "research.html#electron-ion-collider",
+    "title": "Research",
+    "section": "Electron-Ion Collider",
+    "text": "Electron-Ion Collider\nBefore joining Belle II, I worked on the development and implementation of advanced machine learning algorithms for energy and angle reconstruction in the Zero-Degree Calorimeter for the future Electron-Ion Collider. Data from simulations was used to perform the first angle reconstruction for hadronic showers in the far-forward calorimetry using a graph neural network. I also worked with the ePIC collaboration on refinement and validation of a new DD4hep-based framework for simulation studies."
   }
 ]
