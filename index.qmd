@@ -1,10 +1,10 @@
 ---
 title: "Deven Misra"
-subtitle: <a href="https://www.u-tokyo.ac.jp/en/" style="text-decoration:none">UTokyo</a> $\vert$ <a href="https://www.ipmu.jp/en" style="text-decoration:none">Kavli IPMU</a>
+subtitle: <a href="https://www.u-tokyo.ac.jp/en/" style="text-decoration:none">UTokyo</a> $\vert$ <a href="https://www.ipmu.jp/en" style="text-decoration:none">Kavli IPMU</a> $\vert$ <a href="https://cd3.ipmu.jp" style="text-decoration:none">CD3</a>
 about:
   template: solana
   image: /resources/photo.png
-  image-width: 12em
+  image-width: 14em
   image-shape: round
 toc: false
 ---
