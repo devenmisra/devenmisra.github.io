@@ -1,6 +1,15 @@
 ---
 title: "Publications" 
 subtitle: <a href="https://inspirehep.net/">INSPIRE-HEP {{< iconify academicons inspire >}}</a>
+title-block-banner: resources/banner.png
+include-in-header:
+  - text: |
+      <style>
+      .quarto-title-block .quarto-title-banner {
+        background-position-y: center;
+        height: 160px;
+      }
+      </style>
 ---
 
 ## Refereed Conference Publications

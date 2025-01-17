@@ -1,6 +1,15 @@
 ---
 title: Curriculum Vitae
 subtitle: <a href="/resources/CV.pdf">PDF <i class="bi-file-earmark-pdf h5"></i></a>
+title-block-banner: resources/banner.png
+include-in-header:
+  - text: |
+      <style>
+      .quarto-title-block .quarto-title-banner {
+        background-position-y: center;
+        height: 160px;
+      }
+      </style>
 ---
 ## Education
 
