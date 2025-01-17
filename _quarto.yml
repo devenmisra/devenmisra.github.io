@@ -7,6 +7,7 @@ website:
   favicon: /resources/tear.png
   navbar:
     logo: /resources/tear.png
+    search: false
     right:
       - href: index.qmd
         text: About
