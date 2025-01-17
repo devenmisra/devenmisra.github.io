@@ -3,7 +3,7 @@ title: "About Me"
 about:
   template: solana
   image: /resources/photo.png
-  image-width: 14em
+  image-width: 12em
   image-shape: round
 ---
 
