@@ -1,12 +1,10 @@
 ---
-title: "Deven Misra"
-subtitle: <a href="https://www.u-tokyo.ac.jp/en/" style="text-decoration:none">UTokyo</a> $\vert$ <a href="https://www.ipmu.jp/en" style="text-decoration:none">Kavli IPMU</a> $\vert$ <a href="https://cd3.ipmu.jp" style="text-decoration:none">CD3</a>
+title: "About Me"
 about:
   template: solana
   image: /resources/photo.png
   image-width: 14em
   image-shape: round
-toc: false
 ---
 
 I am a graduate student at The University of Tokyo and a member of the Belle II group at the Kavli Institute for the Physics and Mathematics of the Universe. My advisor is Professor <a href="https://db.ipmu.jp/member/personal/2440en.html" style="text-decoration: none"> Takeo Higuchi</a>. 
