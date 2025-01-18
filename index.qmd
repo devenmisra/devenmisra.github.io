@@ -1,10 +1,10 @@
 ---
 title: "About Me"
 about:
-  template: jolla
-  image: /resources/banner.png
-  image-width: 40em
-  image-shape: rounded
+  template: solana
+  image: /resources/photo_alt.png
+  image-width: 14em
+  image-shape: round
 ---
 
 I am a graduate student at The University of Tokyo and a member of the Belle II group at the Kavli Institute for the Physics and Mathematics of the Universe. My advisor is Professor <a href="https://db.ipmu.jp/member/personal/2440en.html" style="text-decoration: none"> Takeo Higuchi</a>. 
