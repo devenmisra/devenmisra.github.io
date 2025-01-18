@@ -1,7 +1,8 @@
 ---
 title: "Research"
-subtitle: <a href="https://orcid.org/0000-0003-3576-3414">ORCID {{< iconify academicons orcid >}}</a>
+subtitle: <a href="https://orcid.org/0000-0003-3576-3414" style="color:#fff;">ORCID {{< iconify academicons orcid >}}</a>
 title-block-banner: resources/banner.png
+title-block-banner-color: "#fff"
 include-in-header:
   - text: |
       <style>

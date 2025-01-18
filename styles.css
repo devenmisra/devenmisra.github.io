@@ -22,9 +22,6 @@ height: 80px;
 ::selection {
   background-color: #bab5a1;
 }
-a {
-  color: #C06C53;
-}
 p {
   margin: 0 0 1rem 0;
 }
