@@ -22,9 +22,9 @@ website:
 
 format:
   html:
-    theme: #theme-dark-alt.scss
-      light: theme-light.scss
-      dark: theme-dark.scss
+    theme: theme-dark-alt.scss
+      #light: theme-light.scss
+      #dark: theme-dark.scss
     css: styles.css
     toc: true
     email-obfuscation: references
