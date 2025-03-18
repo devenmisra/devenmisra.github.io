@@ -17,9 +17,7 @@ website:
         text: Publications
       - href: cv.qmd
         text: CV
-  page-footer: 
-    center: <a href="https://www.u-tokyo.ac.jp/en/" style="text-decoration:none">UTokyo</a> $\vert$ <a href="https://www.ipmu.jp/en" style="text-decoration:none">Kavli IPMU</a> $\vert$ <a href="https://cd3.ipmu.jp" style="text-decoration:none">CD3</a>
-
+        
 format:
   html:
     theme: theme-dark-alt.scss

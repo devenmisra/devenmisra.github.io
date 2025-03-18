@@ -67,35 +67,6 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 
-  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN") {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
 
 <link rel="stylesheet" href="styles.css">
 </head>
@@ -158,12 +129,23 @@ window.Quarto = {
 <div class="quarto-title-meta">
   </div>
 </header><main class="content" id="quarto-document-content">
-<p>I am a graduate student at The University of Tokyo and a member of the Belle II group at the Kavli Institute for the Physics and Mathematics of the Universe. My advisor is Professor <a href="https://db.ipmu.jp/member/personal/2440en.html" style="text-decoration: none"> Takeo Higuchi</a>.</p>
+<p>I am a graduate student at The University of Tokyo and a member of the Belle II group at the Kavli Institute for the Physics and Mathematics of the Universe. My advisor is Professor <a href="https://db.ipmu.jp/member/personal/2440en.html" style="text-decoration: none"> Takeo Higuchi</a>. My secondary supervisor is Professor <a href="https://db.ipmu.jp/member/personal/2727en.html" style="text-decoration: none"> Thomas Melia</a>.</p>
 <p>Previously, I was a research assistant at Reed College, where I worked with Professor <a href="https://www.reed.edu/physics/faculty/" style="text-decoration: none">Noah Charles</a> on disordered network models for the integer quantum hall transition. Before that, I was a SULI intern in the Data Science and Machine Intelligence group at Pacific Northwest National Laboratory, where my mentor was Dr.&nbsp;<a href="https://www.pnnl.gov/people/jan-strube" style="text-decoration: none">Jan Strube</a>.</p>
 <p>I earned my B.A. in Physics from Reed College in May 2022. My thesis advisor was Professor <a href="https://people.reed.edu/~jfrankli/" style="text-decoration: none">Joel Franklin</a>.</p>
 
 
-</main>  
+</main> 
+  <hr class="about-sep">
+   <div class="about-links">
+  <a href="https://github.com/devenmisra/" class="about-link" rel="" target="">
+    <i class="bi bi-github"></i>
+     <span class="about-link-text"></span>
+  </a>
+  <a href="https://gitlab.de/demisra/" class="about-link" rel="" target="">
+    <i class="bi bi-gitlab"></i>
+     <span class="about-link-text"></span>
+  </a>
+</div>
 </div>
  <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
@@ -577,19 +559,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 });
 </script>
 </div> <!-- /content -->
-<footer class="footer">
-  <div class="nav-footer">
-    <div class="nav-footer-left">
-      &nbsp;
-    </div>   
-    <div class="nav-footer-center">
-<p><a href="https://www.u-tokyo.ac.jp/en/" style="text-decoration:none">UTokyo</a> <span class="math inline">\(\vert\)</span> <a href="https://www.ipmu.jp/en" style="text-decoration:none">Kavli IPMU</a> <span class="math inline">\(\vert\)</span> <a href="https://cd3.ipmu.jp" style="text-decoration:none">CD3</a></p>
-</div>
-    <div class="nav-footer-right">
-      &nbsp;
-    </div>
-  </div>
-</footer>
 
 
 

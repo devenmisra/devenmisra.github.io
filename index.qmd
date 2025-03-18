@@ -5,9 +5,14 @@ about:
   image: /resources/top.png
   image-width: 16em
   image-shape: rectangle
+  links: 
+    - icon: github
+      href: https://github.com/devenmisra/
+    - icon: gitlab
+      href: https://gitlab.de/demisra/
 ---
 
-I am a graduate student at The University of Tokyo and a member of the Belle II group at the Kavli Institute for the Physics and Mathematics of the Universe. My advisor is Professor <a href="https://db.ipmu.jp/member/personal/2440en.html" style="text-decoration: none"> Takeo Higuchi</a>. 
+I am a graduate student at The University of Tokyo and a member of the Belle II group at the Kavli Institute for the Physics and Mathematics of the Universe. My advisor is Professor <a href="https://db.ipmu.jp/member/personal/2440en.html" style="text-decoration: none"> Takeo Higuchi</a>. My secondary supervisor is Professor <a href="https://db.ipmu.jp/member/personal/2727en.html" style="text-decoration: none"> Thomas Melia</a>. 
 
 Previously, I was a research assistant at Reed College, where I worked with Professor <a href="https://www.reed.edu/physics/faculty/" style="text-decoration: none">Noah Charles</a> on disordered network models for the integer quantum hall transition. Before that, I was a SULI intern in the Data Science and Machine Intelligence group at Pacific Northwest National Laboratory, where my mentor was Dr. <a href="https://www.pnnl.gov/people/jan-strube" style="text-decoration: none">Jan Strube</a>. 
 
