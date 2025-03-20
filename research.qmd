@@ -16,7 +16,7 @@ Before joining Belle II, I worked on the development and implementation of advan
 ## Condensed Matter Physics
 ### Quantum Phase Transitions
 
-I am currently working on a novel method of introducing geometric disorder to the Chalker-Coddington network model in order to accurately compute the critical exponent for the integer quantum hall transition. 
+I am working with Noah Charles on a novel method of introducing geometric disorder to the Chalker-Coddington network model in order to accurately compute the critical exponent for the integer quantum hall transition. 
 
 #### Related Publications
 1. __D. Misra__, O. Lee, H. Saberhagen, D. Schroeter and N. Charles, "Geometrically Disordered Network Models for the Integer Quantum Hall Transition via Loop Diagram Insertions," _2024 APS March Meeting_, Minneapolis, Minnesota, USA, 2024.
