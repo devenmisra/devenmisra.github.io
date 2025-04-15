@@ -71,6 +71,35 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 <link rel="stylesheet" href="styles.css">
 </head>
@@ -178,9 +207,9 @@ ul.task-list li input[type="checkbox"] {
 <section id="talks-presentations" class="level2">
 <h2 class="anchored" data-anchor-id="talks-presentations">Talks &amp; Presentations</h2>
 <ol type="1">
-<li>“Geometrically Disordered Network Models for the Integer Quantum Hall Transition via Loop Diagram Insertions”, American Physical Society March Meeting, March 2024.</li>
+<li>“Low-Latency On-Chip <span class="math inline">\(\tau\)</span> Event Selection with Machine Learning for the Belle II Level-1 Trigger”, ML4FE Workshop, University of Hawaii, May 2025.</li>
 <li>“Angle Reconstruction in High-Granularity Calorimeters with Graph Neural Networks”, Pacific Northwest National Laboratory Research Symposium, April 2023.</li>
-<li>“Calorimeter Energy Reconstruction with Machine Learning, Pacific Northwest National Laboratory Research Symposium”, December 2022.</li>
+<li>“Calorimeter Energy Reconstruction with Machine Learning”, Pacific Northwest National Laboratory Research Symposium, December 2022.</li>
 <li>“Axisymmetric Ring Sources in General Relativity”, Reed College Physics Seminar, May 2022.</li>
 </ol>
 

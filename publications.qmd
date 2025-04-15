@@ -13,10 +13,9 @@ subtitle: <a href="https://inspirehep.net/">INSPIRE-HEP {{< iconify academicons 
 1. __D. Misra__, "Multipole Moments of the Weyl-Lewis-Papapetrou Metric for an Axisymmetric Ring," Undergraduate Thesis, Dept. of Physics, Reed College, Portland, OR, 2022.
 
 ## Talks \& Presentations
-1. “Geometrically Disordered Network Models for the Integer Quantum Hall Transition via
-Loop Diagram Insertions”, American Physical Society March Meeting, March 2024.
-2. “Angle Reconstruction in High-Granularity Calorimeters with Graph Neural Networks”,
+1. "Low-Latency On-Chip $\tau$ Event Selection with Machine Learning for the Belle II Level-1 Trigger", ML4FE Workshop, University of Hawaii, May 2025. 
+3. “Angle Reconstruction in High-Granularity Calorimeters with Graph Neural Networks”,
 Pacific Northwest National Laboratory Research Symposium, April 2023.
-3. “Calorimeter Energy Reconstruction with Machine Learning, Pacific Northwest National
-Laboratory Research Symposium”, December 2022.
-4. “Axisymmetric Ring Sources in General Relativity”, Reed College Physics Seminar, May 2022.
+4. “Calorimeter Energy Reconstruction with Machine Learning", Pacific Northwest National
+Laboratory Research Symposium, December 2022.
+5. “Axisymmetric Ring Sources in General Relativity”, Reed College Physics Seminar, May 2022.
