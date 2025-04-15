@@ -11,14 +11,14 @@
     "href": "research.html",
     "title": "Research",
     "section": "",
-    "text": "I am currently a member of the Belle II collaboration. My research focuses on developing fast machine learning algorithms on FPGAs to improve the efficiency of the Belle II L1 trigger.\n\n\n\n\nBefore joining Belle II, I worked on the development and implementation of advanced machine learning algorithms for energy and angle reconstruction in the Zero-Degree Calorimeter for the future Electron-Ion Collider. Data from simulations was used to perform the first angle reconstruction for hadronic showers in the far-forward calorimetry using a graph neural network. I also worked with the ePIC collaboration on refinement and validation of a new DD4hep-based framework for simulation studies."
+    "text": "I am currently a member of the Belle II collaboration. My research focuses on developing low-latency machine learning algorithms to be deployed on FPGAs for the Belle II Level-1 trigger.\n\n\n\n\nBefore joining Belle II, I worked on the development and implementation of advanced machine learning algorithms for energy and angle reconstruction in the Zero-Degree Calorimeter for the future Electron-Ion Collider. Data from simulations was used to perform the first angle reconstruction for hadronic showers in the far-forward calorimetry using a graph neural network. I also worked with the ePIC collaboration on refinement and validation of a new DD4hep-based framework for simulation studies."
   },
   {
     "objectID": "research.html#particle-physics",
     "href": "research.html#particle-physics",
     "title": "Research",
     "section": "",
-    "text": "I am currently a member of the Belle II collaboration. My research focuses on developing fast machine learning algorithms on FPGAs to improve the efficiency of the Belle II L1 trigger.\n\n\n\n\nBefore joining Belle II, I worked on the development and implementation of advanced machine learning algorithms for energy and angle reconstruction in the Zero-Degree Calorimeter for the future Electron-Ion Collider. Data from simulations was used to perform the first angle reconstruction for hadronic showers in the far-forward calorimetry using a graph neural network. I also worked with the ePIC collaboration on refinement and validation of a new DD4hep-based framework for simulation studies."
+    "text": "I am currently a member of the Belle II collaboration. My research focuses on developing low-latency machine learning algorithms to be deployed on FPGAs for the Belle II Level-1 trigger.\n\n\n\n\nBefore joining Belle II, I worked on the development and implementation of advanced machine learning algorithms for energy and angle reconstruction in the Zero-Degree Calorimeter for the future Electron-Ion Collider. Data from simulations was used to perform the first angle reconstruction for hadronic showers in the far-forward calorimetry using a graph neural network. I also worked with the ePIC collaboration on refinement and validation of a new DD4hep-based framework for simulation studies."
   },
   {
     "objectID": "research.html#condensed-matter-physics",

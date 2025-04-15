@@ -5,7 +5,7 @@ subtitle: <a href="https://orcid.org/0000-0003-3576-3414">ORCID {{< iconify acad
 ## Particle Physics
 ### Belle II
 
-I am currently a member of the Belle II collaboration. My research focuses on developing fast machine learning algorithms on FPGAs to improve the efficiency of the Belle II L1 trigger. 
+I am currently a member of the Belle II collaboration. My research focuses on developing low-latency machine learning algorithms to be deployed on FPGAs for the Belle II Level-1 trigger. 
 
 ___
 
