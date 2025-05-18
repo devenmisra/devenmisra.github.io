@@ -11,7 +11,7 @@ ___
 
 ### Electron-Ion Collider
 
-Before joining Belle II, I worked on the development and implementation of advanced machine learning algorithms for energy and angle reconstruction in the Zero-Degree Calorimeter for the future Electron-Ion Collider. Data from simulations was used to perform the first angle reconstruction for hadronic showers in the far-forward calorimetry using a graph neural network. I also worked with the ePIC collaboration on refinement and validation of a new DD4hep-based framework for simulation studies.
+Before joining Belle II, I worked on the development and implementation of advanced machine learning algorithms for energy and angle reconstruction in the Zero-Degree Calorimeter for the Electron-Ion Collider. I also worked with the ePIC collaboration to validate a new DD4hep-based framework for simulation studies. 
 
 ## Condensed Matter Physics
 ### Quantum Phase Transitions
