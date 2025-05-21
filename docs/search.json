@@ -4,28 +4,28 @@
     "href": "index.html",
     "title": "About Me",
     "section": "",
-    "text": "I am a graduate student at The University of Tokyo and a member of the Belle II group at the Kavli Institute for the Physics and Mathematics of the Universe. I am also a member of the Center for Data-Driven Discovery. My thesis advisor is  Takeo Higuchi.\nPreviously, I was a research assistant at Reed College, where I worked with Noah Charles on disordered network models for the integer quantum hall transition. Before that, I was a SULI intern in the Data Science and Machine Intelligence group at Pacific Northwest National Laboratory, where my mentor was Jan Strube.\nI earned my B.A. in Physics from Reed College in May 2022. My thesis advisor was Joel Franklin."
+    "text": "I am a graduate student at The University of Tokyo and a member of the Belle II group at the Kavli Institute for the Physics and Mathematics of the Universe. My thesis advisor is  Takeo Higuchi.\nPreviously, I was a research assistant at Reed College, where I worked with Noah Charles on disordered network models for the integer quantum hall transition. Before that, I was a SULI intern in the Data Science and Machine Intelligence group at Pacific Northwest National Laboratory, where my mentor was Jan Strube.\nI earned my B.A. in Physics from Reed College in May 2022. My thesis advisor was Joel Franklin."
   },
   {
     "objectID": "research.html",
     "href": "research.html",
     "title": "Research",
     "section": "",
-    "text": "I am currently a member of the Belle II collaboration. My research focuses on developing low-latency machine learning algorithms to be deployed on FPGAs for the Belle II Level-1 trigger.\n\n\n\n\nBefore joining Belle II, I worked worked with the ePIC collaboration on the development and implementation of advanced machine learning algorithms for energy and angle reconstruction at the Electron-Ion Collider. I also assisted in the validation of a new DD4hep-based simulation framework."
+    "text": "I am currently a member of the Belle II collaboration. My research focuses on developing low-latency machine learning algorithms to be deployed on FPGAs for the Belle II Level-1 trigger.\n\n\n\n\nBefore joining Belle II, I worked worked with the ePIC collaboration on the development and implementation of advanced machine learning algorithms for energy and angle reconstruction in the far-forward calorimetry at the Electron-Ion Collider. I also assisted in the validation of a new DD4hep-based simulation framework."
   },
   {
     "objectID": "research.html#particle-physics",
     "href": "research.html#particle-physics",
     "title": "Research",
     "section": "",
-    "text": "I am currently a member of the Belle II collaboration. My research focuses on developing low-latency machine learning algorithms to be deployed on FPGAs for the Belle II Level-1 trigger.\n\n\n\n\nBefore joining Belle II, I worked worked with the ePIC collaboration on the development and implementation of advanced machine learning algorithms for energy and angle reconstruction at the Electron-Ion Collider. I also assisted in the validation of a new DD4hep-based simulation framework."
+    "text": "I am currently a member of the Belle II collaboration. My research focuses on developing low-latency machine learning algorithms to be deployed on FPGAs for the Belle II Level-1 trigger.\n\n\n\n\nBefore joining Belle II, I worked worked with the ePIC collaboration on the development and implementation of advanced machine learning algorithms for energy and angle reconstruction in the far-forward calorimetry at the Electron-Ion Collider. I also assisted in the validation of a new DD4hep-based simulation framework."
   },
   {
     "objectID": "research.html#condensed-matter-physics",
     "href": "research.html#condensed-matter-physics",
     "title": "Research",
     "section": "Condensed Matter Physics",
-    "text": "Condensed Matter Physics\n\nQuantum Phase Transitions\nI am working with Noah Charles on a novel method of introducing geometric disorder to the Chalker-Coddington network model in order to accurately compute the critical exponent for the integer quantum hall transition.\n\nRelated Publications\n\nD. Misra, O. Lee, H. Saberhagen, D. Schroeter and N. Charles, “Geometrically Disordered Network Models for the Integer Quantum Hall Transition via Loop Diagram Insertions,” 2024 APS March Meeting, Minneapolis, Minnesota, USA, 2024."
+    "text": "Condensed Matter Physics\n\nQuantum Phase Transitions\nI am working with Noah Charles on a novel method of introducing geometric disorder to the Chalker-Coddington network model in order to accurately compute the critical exponent for the integer quantum hall transition."
   },
   {
     "objectID": "publications.html",
