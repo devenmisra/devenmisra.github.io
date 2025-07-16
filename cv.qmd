@@ -1,6 +1,6 @@
 ---
 title: Curriculum Vitae
-subtitle: <a href="/resources/CV.pdf">PDF <i class="bi-file-earmark-pdf h5"></i></a>
+subtitle: <a href="/resources/Deven_CV.pdf">PDF <i class="bi-file-earmark-pdf h5"></i></a>
 ---
 ## Education
 
