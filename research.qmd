@@ -11,7 +11,7 @@ ___
 
 ### Electron-Ion Collider
 
-Before joining Belle II, I worked worked with the ePIC collaboration on the development and implementation of advanced machine learning algorithms for energy and angle reconstruction in the far-forward calorimetry at the Electron-Ion Collider. I also assisted in the validation of a new DD4hep-based simulation framework. 
+Before joining Belle II, I worked with the ePIC collaboration on the development and implementation of advanced machine learning algorithms for energy and angle reconstruction in the far-forward calorimetry at the Electron-Ion Collider. 
 
 ## Condensed Matter Physics
 ### Quantum Phase Transitions
