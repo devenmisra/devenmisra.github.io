@@ -34,3 +34,46 @@ h1 {
   text-transform: uppercase;
   letter-spacing: 0.5rem;
 }
+
+.quarto-about-jolla .about-entity img {
+  transition: none !important; 
+  text-shadow: none;
+  filter: none;
+}
+
+body.quarto-dark .quarto-about-jolla .about-entity img {
+  transition: 
+    text-shadow 1.2s cubic-bezier(0.4, 0, 0.2, 1), 
+    filter 1.2s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+body.quarto-dark .quarto-about-jolla .about-entity img,
+body.quarto-dark .quarto-about-jolla .about-image {
+  filter: 
+    drop-shadow(0 0 6px rgba(255, 255, 255, 0.3))
+    drop-shadow(0 0 12px rgba(180, 250, 255, 0.2))
+    drop-shadow(0 0 24px rgba(150, 240, 255, 0.1)); 
+}
+
+body.quarto-light .quarto-about-jolla .about-entity img {
+  filter: drop-shadow(0 0 0 rgba(0,0,0,0));
+}
+
+.navbar-brand img, 
+.navbar-logo {
+  background: transparent !important;
+  border: none !important;
+  box-shadow: none !important;
+  overflow: visible !important; 
+  transition: none !important;
+}
+
+/* 2. Dark Mode state - Apply the glow ONLY to the silhouette */
+body.quarto-dark .navbar-brand img,
+body.quarto-dark .navbar-logo {
+  transition: filter 1.2s cubic-bezier(0.4, 0, 0.2, 1) !important;
+  
+  filter: 
+    drop-shadow(0 0 3px rgba(255, 255, 255, 0.3))
+    drop-shadow(0 0 8px rgba(180, 250, 255, 0.1));
+}
