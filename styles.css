@@ -40,9 +40,9 @@ body {
   background-image: repeating-linear-gradient(
     to bottom,
     transparent,
-    transparent 2px,
-    var(--fg) 2px,
-    var(--fg) 4px
+    transparent 1px,
+    var(--fg) 1px,
+    var(--fg) 2px
   ) !important;
   background-attachment: fixed !important;
   min-height: 100vh;
@@ -53,9 +53,9 @@ body {
   background-image: repeating-linear-gradient(
     to bottom,
     transparent,
-    transparent 2px,
-    var(--fg) 2px,
-    var(--fg) 4px
+    transparent 1px,
+    var(--fg) 1px,
+    var(--fg) 2px
   ) !important;
 }
 
