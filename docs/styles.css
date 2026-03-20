@@ -1,3 +1,4 @@
+
 /* montserrat-regular - latin_latin-ext */
 @font-face {
     font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
@@ -6,17 +7,65 @@
     font-weight: 400;
     src: url('fonts/montserrat-v29-latin_latin-ext-regular.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
   }
+
+/*-- scss:rules --*/
+
+:root, .quarto-light {
+  --bg: #faf4ed;
+  --fg: rgba(87, 82, 121, 0.08); // Subtle Purple
+  --hl: #907aa9;
+}
+
+.quarto-dark {
+  --bg: #232136;
+  --fg: rgba(224, 222, 244, 0.06); // Subtle Lavender
+  --hl: #c4a7e7;
+}
+
+body {
+  background-color: var(--bg) !important;
+  font-family: 'Montserrat', sans-serif;
+  position: relative;
   
-  body {
-	font-family: 'Montserrat', sans-serif;
+  &::before {
+    content: "";
+    position: fixed;
+    inset: 0;
+    pointer-events: none;
+    z-index: 0;
+    background-image: repeating-linear-gradient(
+      to bottom,
+      var(--fg),
+      var(--fg) 1px,
+      transparent 1px,
+      transparent 3px
+    );
+  }
 }
 
-.navbar-logo {
-    max-height: 50px;
+.navbar {
+  height: 80px;
+  border-bottom: 2px solid var(--hl) !important;
+  background: 
+    repeating-linear-gradient(
+      to bottom,
+      var(--fg),
+      var(--fg) 1px,
+      transparent 1px,
+      transparent 3px
+    ),
+    var(--bg) !important;
+    
+  background-size: 100% 3px, auto;
 }
 
-.navbar{
-height: 80px; 
+#quarto-content, .navbar-container {
+  position: relative;
+  z-index: 1;
+}
+
+.navbar-container {
+  background: transparent !important; 
 }
 
 ::selection {
@@ -61,6 +110,7 @@ body.quarto-light .quarto-about-jolla .about-entity img {
 
 .navbar-brand img, 
 .navbar-logo {
+  max-height: 50px;
   background: transparent !important;
   border: none !important;
   box-shadow: none !important;
@@ -68,7 +118,6 @@ body.quarto-light .quarto-about-jolla .about-entity img {
   transition: none !important;
 }
 
-/* 2. Dark Mode state - Apply the glow ONLY to the silhouette */
 body.quarto-dark .navbar-brand img,
 body.quarto-dark .navbar-logo {
   transition: filter 1.2s cubic-bezier(0.4, 0, 0.2, 1) !important;
