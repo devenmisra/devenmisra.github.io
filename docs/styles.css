@@ -10,53 +10,53 @@
 
 /*-- scss:rules --*/
 
-:root, .quarto-light {
+/*-- scss:rules --*/
+
+:root {
   --bg: #faf4ed;
-  --fg: rgba(87, 82, 121, 0.08); // Subtle Purple
+  --fg: rgba(87, 82, 121, 0.08);
   --hl: #907aa9;
 }
 
-.quarto-dark {
+body.quarto-light {
+  --bg: #faf4ed;
+  --fg: rgba(87, 82, 121, 0.08);
+  --hl: #907aa9;
+}
+
+body.quarto-dark {
   --bg: #232136;
-  --fg: rgba(224, 222, 244, 0.06); // Subtle Lavender
+  --fg: rgba(224, 222, 244, 0.06);
   --hl: #c4a7e7;
 }
 
-body {
+html {
   background-color: var(--bg) !important;
+}
+
+body {
   font-family: 'Montserrat', sans-serif;
-  position: relative;
-  
-  &::before {
-    content: "";
-    position: fixed;
-    inset: 0;
-    pointer-events: none;
-    z-index: 0;
-    background-image: repeating-linear-gradient(
-      to bottom,
-      var(--fg),
-      var(--fg) 1px,
-      transparent 1px,
-      transparent 3px
-    );
-  }
+  background-color: var(--bg) !important;
+  background-image: repeating-linear-gradient(
+    to bottom,
+    transparent,
+    transparent 2px,
+    var(--fg) 2px,
+    var(--fg) 4px
+  ) !important;
+  background-attachment: fixed !important;
+  min-height: 100vh;
 }
 
 .navbar {
-  height: 80px;
-  border-bottom: 2px solid var(--hl) !important;
-  background: 
-    repeating-linear-gradient(
-      to bottom,
-      var(--fg),
-      var(--fg) 1px,
-      transparent 1px,
-      transparent 3px
-    ),
-    var(--bg) !important;
-    
-  background-size: 100% 3px, auto;
+  background-color: var(--bg) !important;
+  background-image: repeating-linear-gradient(
+    to bottom,
+    transparent,
+    transparent 2px,
+    var(--fg) 2px,
+    var(--fg) 4px
+  ) !important;
 }
 
 #quarto-content, .navbar-container {
