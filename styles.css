@@ -41,7 +41,7 @@ body {
     to bottom,
     transparent,
     transparent 1px,
-    var(--fg) 1px,
+    var(--fg) 4px,
     var(--fg) 2px
   ) !important;
   background-attachment: fixed !important;
@@ -54,7 +54,7 @@ body {
     to bottom,
     transparent,
     transparent 1px,
-    var(--fg) 1px,
+    var(--fg) 4px,
     var(--fg) 2px
   ) !important;
 }
