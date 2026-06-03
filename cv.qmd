@@ -8,7 +8,10 @@ __The University of Tokyo__ | Bunkyo&#772;-ku, Tokyo
 
 <ul style="list-style-type:square;">
   <li>
-  M.S. in Physics | October 2024 -- Present
+  Ph.D. in Physics | October 2026 -- Present
+  </li>
+  <li>
+  M.Sc. in Physics | October 2024 -- September 2026
   </li>
 </ul>
 
