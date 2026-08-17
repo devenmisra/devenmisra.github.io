@@ -10,7 +10,8 @@ subtitle: <a href="https://inspirehep.net/">INSPIRE-HEP {{< iconify academicons 
 1. __D. Misra__, O. Lee, H. Saberhagen, D. Schroeter and N. Charles, "Geometrically Disordered Network Models for the Integer Quantum Hall Transition via Loop Diagram Insertions," _2024 APS March Meeting_, Minneapolis, Minnesota, USA, 2024.
 
 ## Other Publications
-1. __D. Misra__, "Multipole Moments of the Weyl-Lewis-Papapetrou Metric for an Axisymmetric Ring," Undergraduate Thesis, Dept. of Physics, Reed College, Portland, OR, 2022.
+1. __D. Misra__, "Low-Latency On-Chip $\tau$ Event Classification with Machine Learning for the Belle II Level-1 Trigger", M.S. Thesis, Dept. of Physics, Graduate School of Science, The University of Tokyo, Bunkyo-ku, Tokyo, JP, 2026.
+2. __D. Misra__, "Multipole Moments of the Weyl-Lewis-Papapetrou Metric for an Axisymmetric Ring," Undergraduate Thesis, Dept. of Physics, Reed College, Portland, OR, 2026.
 
 ## Talks \& Presentations
 1. "Low-Latency On-Chip $\tau$ Event Selection with Machine Learning for the Belle II Level-1 Trigger", 2026 JPS Spring Meeting, Remote, March 2026.
